@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "tam_cap")(type "KiCad")(uri "${KIPRJMOD}/tam_cap.pretty")(options "")(descr ""))
+  (lib (name "wheelwriter")(type "KiCad")(uri "${KIPRJMOD}/wheelwriter.pretty")(options "")(descr ""))
+)
